@@ -1,0 +1,2 @@
+202404161658   0     0     0Administrator C:\Users\Administrator\Desktop\km.data\LU\lu-2\mohu2\gd-lu-mh-20 = CON((FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2020\gd-lu-20-f) - 1.000000) / 5.000000 < 0 , 0, CON((FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2020\gd-lu-20-f) - 1.000000) / 5.000000 > 1, 1, (FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2020\gd-lu-20-f) - 1.000000) / 5.000000))
+202404161659   0     1     0Administrator C:\Users\Administrator\Desktop\km.data\LU\lu-2\lutxt2\gd-lu-mh-20.TXT = GRIDASCII ( C:\Users\Administrator\Desktop\km.data\LU\lu

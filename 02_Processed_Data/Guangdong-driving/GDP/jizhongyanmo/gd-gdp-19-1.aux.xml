@@ -1,0 +1,19 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>gd-gdp-19-1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>168</HistMin>
+        <HistMax>1146205</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>146135|10232|4744|2700|1695|1193|1103|1289|751|326|458|280|634|584|291|269|140|91|85|47|29|24|45|55|84|54|31|27|44|50|56|67|98|86|81|54|38|29|32|44|26|22|19|15|10|11|12|5|6|5|6|7|4|6|8|12|10|16|8|8|6|2|3|0|1|2|4|4|1|2|2|3|4|4|2|2|1|1|2|2|3|0|2|1|1|1|0|1|0|3|4|5|3|3|4|4|6|11|7|6|10|7|8|3|4|2|3|1|1|3|1|3|0|1|0|1|1|1|0|0|0|2|1|1|0|1|2|2|0|1|1|1|1|0|0|0|0|2|0|0|0|0|1|0|0|0|1|1|3|1|1|2|0|0|0|1|1|0|3|1|2|4|5|3|6|0|3|5|3|2|4|4|4|5|3|6|4|3|3|2|1|1|1|2|0|3|2|2|0|0|1|0|1|1|2|0|1|0|1|0|0|0|0|1|0|0|0|0|0|0|1|2|1|1|1|0|0|2|0|0|3|2|1|0|0|3|4|1|1|0|0|1|0|0|0|0|2|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
