@@ -1,4 +1,4 @@
-Title: Data for "Simulating Land Use Change with Neural Cellular Automata"
+Title: Data for "A Spatiotemporal Neural Cellular Automata Model for Land Use/Cover Change Simulation"
 
 1. Folder description:
 01_Raw_Data: The source of the original dataset. The data includes 2000, 2005, 2010, 2015, and 2020 land use and driving factors (DEM (extracting Slope and Elevation), GDP, POP, Rain, Tem, Way (extracting Highway and Railway)) raster data. These were obtained from the Resource and Environmental Science Data Platform (https://www.resdc.cn/) and OpenStreetMap (https://www.openstreetmap.org/)
@@ -21,7 +21,6 @@ Title: Data for "Simulating Land Use Change with Neural Cellular Automata"
 - time
 - sys
 - os
-06_Figures:
 
 2. Data description:
 As the input data for the model, the ".txt" format data in the "driving" folder of the "03_Model_Input" folder represents various driving factors for the corresponding year. The ".txt" format data in the "LU" folder represents LUCC in different periods.
