@@ -1,2 +1,0 @@
-202403221209   0     0     0Administrator C:\Users\Administrator\Desktop\km.data\LU\lu-2\mohu2\gd-lu-mh-10 = CON((FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2010\gd-lu-10-2) - 1.000000) / 5.000000 < 0 , 0, CON((FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2010\gd-lu-10-2) - 1.000000) / 5.000000 > 1, 1, (FLOAT(C:\Users\Administrator\Desktop\km.data\LU\2010\gd-lu-10-2) - 1.000000) / 5.000000))
-202403221211   0     1     0Administrator C:\Users\Administrator\Desktop\km.data\LU\lu-2\lutxt2\gd-lu-mh-10.TXT = GRIDASCII ( C:\Users\Administrator\Desktop\km.data\LU\lu

@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="zh"><Esri><CreaDate>20240318</CreaDate><CreaTime>21081500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="f:\arcgis\arcgis app\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20240318" Time="210815">ExtractByMask gd-slope-2 gd-lu-05-ff C:\Users\Administrator\Desktop\km.data\driving\DEM\Slope\gd-slope-3</Process></lineage></DataProperties></Esri></metadata>
