@@ -1,1 +1,0 @@
-The land use data and driving factor data for China were obtained from the Resource and Environmental Science Data Platform (https://www.resdc.cn/) and OpenStreetMap (https://www.openstreetmap.org/).
